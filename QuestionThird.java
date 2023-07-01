@@ -39,3 +39,5 @@ public class QuestionThird {
 	}
 
 }
+//result
+////Section Title: History of artificial intelligence
